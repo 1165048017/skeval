@@ -1,0 +1,3 @@
+[submodule "nonmax"]
+	path = nonmax
+	url = https://github.com/zeakey/nonmax
